@@ -38,3 +38,5 @@
 */Release
 */x64
 *.sdf
+/.vs
+*.VC.db
