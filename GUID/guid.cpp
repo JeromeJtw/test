@@ -41,7 +41,7 @@ int main()
 	string str2 = str1;
 	cout << str2.c_str() << endl;
 
-	cout << str2;
+	cout << str2
 
 	system("pause");
 	return 0;
