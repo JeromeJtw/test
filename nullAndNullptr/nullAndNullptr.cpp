@@ -22,7 +22,7 @@ int main()
 
 	int *i = 0;
 	int *j = NULL;
-	int *h = (void*)0;
+	//int *h = (void*)0;
 	func(NULL);
 	func(nullptr);
 	system("pause");
