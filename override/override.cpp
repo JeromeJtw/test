@@ -14,7 +14,7 @@ public:
 	virtual void f1() = 0;
 	virtual void f2(int a) {};
 	virtual void f3(int b) const {};
-	void f4(const int c) {};
+	virtual void f4(const int c) {};
 };
 
 Base::Base(int a):override(a)

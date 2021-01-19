@@ -40,3 +40,4 @@
 *.sdf
 /.vs
 *.VC.db
+*.opendb
