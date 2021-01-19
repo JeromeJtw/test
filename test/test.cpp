@@ -69,6 +69,7 @@ world";
 	cout << str1 << endl;
 	cout << str2 << endl;*/
 	cout << "Helllo CI" << endl;
+	cout << "Helllo Kitty!!!" << endl;
 	getchar();
     return 0;
 }
