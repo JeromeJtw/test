@@ -33,7 +33,7 @@ public:
 	void f1() override;
 	void f2(int a) override;
 	void f3(int b) const override;
-	void f4(const int c) override;
+	void f4(const int c);
 
 };
 
