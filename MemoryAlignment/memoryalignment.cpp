@@ -1,5 +1,6 @@
 #include "iostream"
 #include "string"
+#pragma pack(1)
 
 using std::cout;
 using std::string;
