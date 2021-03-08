@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include "iostream"
 #include <string>
+#include <vector>
 using std::cout;
 using std::endl;
 using std::string;
@@ -62,14 +63,16 @@ int main()
 	Point p3 = func(p2);*/
 
 	//²âÊÔ×Ö·û´®»»ÐÐ
-	/*string str1 = "Hello\
+	string str1 = "Hello \
 world";
-	string str2 = "Hello"
+	string str2 = "Hello "
 		"world";
 	cout << str1 << endl;
-	cout << str2 << endl;*/
-	cout << "Helllo CI" << endl;
-	cout << "Helllo Kitty!!!" << endl;
+	cout << str2 << endl;
+	/*cout << "Helllo CI" << endl;
+	cout << "Helllo Kitty!!!" << endl;*/
+	/*std::vector<int> list(1,3);
+	cout << list[2];*/
 	getchar();
     return 0;
 }
